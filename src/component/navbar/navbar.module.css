@@ -1,0 +1,21 @@
+.Navbar {
+  min-height: 64px;
+  color: #fff !important;
+  -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #d1cfcf;
+    background-color: #fff !important;
+}
+.Button{
+  /* color: #fff !important; */
+  align-self: flex-end;
+}
+.NavTitle{
+  /* color: #fff !important; */
+}
+/* .title{
+   display: 'none',
+    [theme.breakpoints.up('sm')]: {
+      display: 'block',
+    },
+} */
